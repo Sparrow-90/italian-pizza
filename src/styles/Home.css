@@ -1,0 +1,76 @@
+.home{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+
+.headerContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.headerContainer h1{
+    font-size: 90px;
+    font-weight: 50;
+    color: white;
+    font-family: 'Carter One', cursive;
+}
+
+.headerContainer p{
+    font-size: 40px;
+    font-weight: lighter;
+    color: wheat;
+    font-family: 'Lobster Two', cursive;
+}
+
+.headerContainer button{
+    color: black;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: bisque;
+    height: 50px;
+    width: 180px;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.headerContainer a{
+    text-decoration: none;
+}
+
+.headerContainer button:hover{
+    background-color: blanchedalmond;
+    transition: .3s ease-in;
+}
+
+@media(max-width: 659px){
+    .home{
+        justify-content: center;
+        align-items: center;
+    }
+
+    .headerContainer h1{
+        font-size: 40px;
+    }
+
+    .headerContainer p{
+        font-size: 30px;
+    }
+
+    .headerContainer button{
+        margin-bottom: 30px;
+    }
+}
