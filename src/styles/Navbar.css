@@ -45,6 +45,11 @@
     font-size: 20px;
 }
 
+.navbar a:hover{
+    color: white;
+    transition: .1s ease-in;
+}
+
 #open{
     padding-left: 0px;
 }
