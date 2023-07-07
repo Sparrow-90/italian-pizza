@@ -19,14 +19,16 @@
 }
 
 .headerContainer h1{
-    font-size: 90px;
+    font-size: 150px;
     font-weight: 50;
     color: white;
+    text-shadow: 5px 10px 15px black;
     font-family: 'Carter One', cursive;
 }
 
 .headerContainer p{
-    font-size: 40px;
+    font-size: 60px;
+    text-shadow: 5px 10px 15px black;
     font-weight: lighter;
     color: wheat;
     font-family: 'Lobster Two', cursive;
@@ -40,11 +42,13 @@
     cursor: pointer;
     justify-content: center;
     background-color: bisque;
-    height: 50px;
-    width: 180px;
-    font-size: 20px;
+    height: 70px;
+    width: 200px;
+    font-size: 25px;
     margin-top: 20px;
     font-family: 'Permanent Marker', cursive;
+    text-transform: uppercase;
+    box-shadow: 5px 10px 15px black;
 }
 
 .headerContainer a{
