@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/italian-pizza/static/css/main.3ef0947d.css",
-    "main.js": "/italian-pizza/static/js/main.90cb88ac.js",
+    "main.js": "/italian-pizza/static/js/main.e80099b6.js",
     "static/media/bg-homepage.jpg": "/italian-pizza/static/media/bg-homepage.4647a947903b264a4e8e.jpg",
     "static/media/pizza-about.jpg": "/italian-pizza/static/media/pizza-about.e9d5529021318b750639.jpg",
     "static/media/Tono.jpg": "/italian-pizza/static/media/Tono.971bf5cb50798a344c52.jpg",
@@ -16,10 +16,10 @@
     "static/media/pizza-logo.svg": "/italian-pizza/static/media/pizza-logo.c193d6a2ea0537926846566b9d83683d.svg",
     "index.html": "/italian-pizza/index.html",
     "main.3ef0947d.css.map": "/italian-pizza/static/css/main.3ef0947d.css.map",
-    "main.90cb88ac.js.map": "/italian-pizza/static/js/main.90cb88ac.js.map"
+    "main.e80099b6.js.map": "/italian-pizza/static/js/main.e80099b6.js.map"
   },
   "entrypoints": [
     "static/css/main.3ef0947d.css",
-    "static/js/main.90cb88ac.js"
+    "static/js/main.e80099b6.js"
   ]
 }
