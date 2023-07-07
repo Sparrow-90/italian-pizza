@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/italian-pizza/static/css/main.3ef0947d.css",
+    "main.js": "/italian-pizza/static/js/main.90cb88ac.js",
+    "static/media/bg-homepage.jpg": "/italian-pizza/static/media/bg-homepage.4647a947903b264a4e8e.jpg",
+    "static/media/pizza-about.jpg": "/italian-pizza/static/media/pizza-about.e9d5529021318b750639.jpg",
+    "static/media/Tono.jpg": "/italian-pizza/static/media/Tono.971bf5cb50798a344c52.jpg",
+    "static/media/Vegan.jpg": "/italian-pizza/static/media/Vegan.125f02d5058464f99055.jpg",
+    "static/media/Hell.jpg": "/italian-pizza/static/media/Hell.25b7acf95d2620cc927c.jpg",
+    "static/media/DonMateo.jpg": "/italian-pizza/static/media/DonMateo.237431c250ddea4d8b8e.jpg",
+    "static/media/Neapolitana.jpg": "/italian-pizza/static/media/Neapolitana.5d540e82b09bea68632d.jpg",
+    "static/media/Especiale.jpg": "/italian-pizza/static/media/Especiale.ef905e96a5441065c559.jpg",
+    "static/media/pepperoni.jpg": "/italian-pizza/static/media/pepperoni.e1c3fcb92e40c125b6cf.jpg",
+    "static/media/Primavera.jpg": "/italian-pizza/static/media/Primavera.d98eca76368c2a37ded6.jpg",
+    "static/media/CheeseePizza.jpg": "/italian-pizza/static/media/CheeseePizza.834bdd0ebdc8f692dda6.jpg",
+    "static/media/pizza-logo.svg": "/italian-pizza/static/media/pizza-logo.c193d6a2ea0537926846566b9d83683d.svg",
+    "index.html": "/italian-pizza/index.html",
+    "main.3ef0947d.css.map": "/italian-pizza/static/css/main.3ef0947d.css.map",
+    "main.90cb88ac.js.map": "/italian-pizza/static/js/main.90cb88ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ef0947d.css",
+    "static/js/main.90cb88ac.js"
+  ]
+}
