@@ -12,10 +12,10 @@ import {HashRouter as Router, Route, Routes} from 'react-router-dom';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename='/'>
         <Navbar/>
         <Routes>
-          <Route path="/" exact Component={Home}/>
+          <Route path="/*" exact Component={Home}/>
           <Route path="/menu" exact Component={Menu}/>
           <Route path="/about" exact Component={About}/>
           <Route path="/contact" exact Component={Contact}/>
