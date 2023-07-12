@@ -1,10 +1,15 @@
 import React from 'react'
 import ContactPizza from '../assets/Vegan.jpg'
 import '../styles/Contact.css'
+import { motion } from "framer-motion";
 
 const Contact = () => {
   return (
-    <div className='contact'>
+    <motion.div className='contact'
+    initial= {{width: 0}}
+    animate={{width: "100%"}}
+    exit={{x: window.innerWidth, transition: {duration: 0.1}}}
+    >
         <div className='leftSide' style={{backgroundImage: `url(${ContactPizza})` }}>
 
         </div>
@@ -20,7 +25,7 @@ const Contact = () => {
                 <button className='contactBtn'>Send Message</button>
             </form>
         </div>
-    </div>
+    </motion.div>
   )
 }
 
